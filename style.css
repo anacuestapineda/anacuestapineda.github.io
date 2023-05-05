@@ -1,8 +1,7 @@
-
 body {
-  Background-color: #98777b;
+  Background-color: #d6d6d6;
   color: black;
-  font-family: Times new roman, helvetica, sans-serif;
+  font-family: Ariel, helvetica, sans-serif;
   Margin: 10% 20;
 }
 
@@ -11,6 +10,14 @@ body {
   text-transform: Uppercase;
   boder-top: 1px solid #dddddd;
   boder-bottom: 1px solid #dddddd;
-  background-color: brown;
-  
+  background-color: grey;
+   
 }
+.sum-header{
+ text-align: left;
+  margin: auto;
+  width: auto;
+  padding: 10px
+
+}
+
