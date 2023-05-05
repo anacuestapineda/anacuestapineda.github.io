@@ -1,10 +1,13 @@
+
 body {
   Background-color: #d6d6d6;
   color: black;
   font-family: Ariel, helvetica, sans-serif;
   Margin: 10% 20;
+  padding: 5%
 }
 
+}
 .exp-header{
   text-align: left;
   text-transform: Uppercase;
@@ -13,11 +16,16 @@ body {
   background-color: grey;
    
 }
+
 .sum-header{
- text-align: left;
+  text-align: left;
   margin: auto;
   width: auto;
   padding: 10px
+}
 
+footer{
+  border: 5px solid black;
+  
 }
 
