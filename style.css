@@ -1,1 +1,16 @@
 
+body {
+  Background-color: #98777b;
+  color: black;
+  font-family: Times new roman, helvetica, sans-serif;
+  Margin: 10% 20;
+}
+
+.exp-header{
+  text-align: left;
+  text-transform: Uppercase;
+  boder-top: 1px solid #dddddd;
+  boder-bottom: 1px solid #dddddd;
+  background-color: brown;
+  
+}
